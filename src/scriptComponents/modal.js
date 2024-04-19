@@ -30,4 +30,4 @@ function handleOutsideClose(evt) {
     }
 };
 
-export {openModal, closeModal};
+export { openModal, closeModal };
